@@ -1,14 +1,291 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>WellSaid</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="./dist/styles.css">
-  </head>
-  <body>
-    <div class="min-h-screen flex items-center justify-center">
-      <h1 class="text-5xl font-sans">WellSaid.</h1>
+<head>
+  <title>WellSaid Health - patient communication software for the NHS</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="keywords" content="health, wellbeing, well said, well said health">
+  <meta name="description" content="WellSaid Health supports health services to communicate better with patients and improve health outcomes">
+  <link rel="stylesheet" href="./dist/styles.css">
+</head>
+<body class="font-sans text-smooth">
+
+  <header class="bg-blue pt-4">
+    <div class="container mx-auto flex items-center justify-between">
+      <img src="./dist/assets/wellsaidhealth-logo-white-transparent.png" alt="WellSaid">
+      <a href="mailto:hello@nudjed.com" class="font-semibold text-blue-lighter no-underline whitespace-no-wrap border-b-4 border-blue-lighter pb-2 mr-2 hover:text-blue-light hover:border-blue-light">
+        GET IN TOUCH
+      </a>
     </div>
-  </body>
+  </header>
+
+  <section class="bg-blue">
+    <div class="container mx-auto pt-4">
+      <h1 class="text-5xl sm:text-3xl md:text-5xl text-white text-center sm:mx-auto py-4 px-4">
+        Improve health outcomes with better patient communications
+      </h1>
+      <img class="hidden sm:mx-auto sm:pb-4 sm:px-4 sm:block" src="./dist/assets/wellsaidhealth-patientphonesheader.png" alt="better patient communications">
+    </div>
+  </section>
+
+  <section class="bg-blue-dark text-white text-center">
+    <div class="container sm:mx-auto sm:flex sm:content-around">
+
+      <div class="p-4 sm:max-w-sm">
+        <p class="text-5xl font-semibold mb-4">75%</p>
+        <p class="text-sm">of patients believe that mobile health solutions can convey significant health benefits</p>
+      </div>
+
+      <div class="p-4 sm:max-w-sm">
+        <p class="text-5xl font-semibold mb-4">&gt;40%</p>
+        <p class="text-sm">of patients contacted by WellSaid respond within a 48 hours of receiving a message</p>
+      </div>
+
+      <div class="p-4 sm:max-w-sm">
+        <p class="text-5xl font-semibold mb-4">94%</p>
+        <p class="text-sm">of UK adults, own or use a mobile phone capable of receiving SMS messages (Ofcom 2017)</p>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="bg-black text-center text-white p-8">    
+    <p class="text-2xl">Starting at £500 per quarter, including 500 messages</p>
+    <p class="text-xs mt-4">Register your interest now!</p>
+    
+    <form id="register1" name="register1" method="POST" netlify class="mt-4 flex justify-center">
+      <input type="email" required class="px-8 border border-grey-light rounded-l text-grey-dark text-lg h-auto" placeholder="Your email address">
+      <button class="bg-orange text-white font-semibold uppercase rounded-r h-auto p-4 text-sm">Register</button>
+    </form>
+  </section>
+
+  <section class="py-8">
+    <div class="container sm:mx-auto sm:flex">
+
+      <div class="text-xl text-center my-4">
+        <h3>Using WellSaid you can:</h3>
+      </div>
+
+      <div class="bg-blue-lighter mx-4 text-center p-4 sm:max-w-xs my-4">
+        <h4 class="text-xl px-2 pb-4">Gather Patient Feedback</h4>
+        <p>Using short surveys to understand more about patient experiences.</p>
+      </div>
+
+      <div class="bg-blue-lighter mx-4 text-center p-4 sm:max-w-xs my-4">
+        <h4 class="text-xl  pb-4">Measure &amp; Support Outcomes</h4>
+        <p>Reminding patients to report outcomes and prompting behaviours.</p>
+      </div>
+
+      <div class="bg-blue-lighter mx-4 text-center p-4 sm:max-w-xs my-4">
+        <h4 class="text-xl pb-4">Simplify Reporting &amp; Decision</h4>
+        <p>Automating reporting and analysis to support continuous improvement.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-blue-lighter p-8">
+    <div class="container mx-auto sm:flex">
+      <p class="md:max-w-lg sm:text-xl pb-4 border-b-4 sm:border-r-4 sm:border-b-0 border-blue  sm:px-8 italic leading-normal text-grey-darkest">
+        "WellSaid is proving to be invaluable in helping us to understand our patients better, improve our reporting and develop
+        our service. The system is easy to use and takes minimal effort from the team to gather insightful views from patients.
+        We plan to expand our use of the system to capture patient outcomes and experiences."
+      </p>
+
+      <div class="py-4 sm:px-8 text-blue">
+        <p class="font-bold leading-normal text-lg mb-2">Dr Enzo di Battista</p>
+        <p class="font-bold leading-normal">Lead Clinician</p>
+        <p class="leading-normal">Adult Weight Management Service</p>
+        <p class="leading-normal">Aneurin Bevan University Health Board</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="mt-8">
+    <div class="container mx-auto px-8 mb-8">
+      <h2 class="text-center text-4xl pb-8">How it works</h2>
+      <hr class="mx-auto mb-4 md:max-w-sm border-solid border-t-4 border-black" />
+    </div>
+    
+    <div class="md:flex md:container md:justify-center md:content-center mx-auto py-4">
+      <img class="max-h-full max-w-full mx-auto md:mx-0 block lg:mr-8" src="./dist/assets/wellsaidhealth-patientconsent.png" alt="Gather Patient Consent" />
+
+      <div class="flex-auto md:max-w-sm lg:ml-8">
+        <h3 class="sm:text-3xl font-semibold border-b-8 border-blue-lighter mx-8 mt-8">Gather Patient Consent.</h3>
+        <p class="md:text-lg leading-normal text-grey-darker my-4 mx-8">WellSaid puts your patients in charge of consent at every step of engagement. Promoting trust through consistent
+          and clear permissions. Ensuring your service meets UK legislation.</p>
+
+        <ul class="md:text-lg leading-normal text-grey-darker">
+          <li>Opt-in via form or web</li>
+          <li>Opt-out at any time</li>
+          <li>Data stored securely to GDPR standards</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="bg-grey-lightest sm:my-8 py-4">
+      <div class="md:flex md:container md:justify-center md:content-center mx-auto">
+        <img class="max-h-full max-w-full mx-auto md:mx-0 block lg:mr-8" src="./dist/assets/wellsaidhealth-patientphonesingle.png" alt="Engage Groups Automatically" />
+
+        <div class="flex-auto lg:pl-8 lg:ml-8 md:max-w-sm">
+          <h3 class="sm:text-3xl font-semibold m-8 border-b-8 border-blue-lighter">Engage Groups Automatically.</h3>
+          <p class="sm:text-lg leading-normal text-grey-darker my-4 mx-8">Build customised conversations and trigger them based on time or patient response. Then monitor your interactions,
+            with a simple to learn dashboard and control panel.</p>
+
+          <ul class="md:text-lg leading-normal text-grey-darker md:mb-8">
+            <li>Messages sent via SMS at ~4p message</li>
+            <li>Simple to learn interface</li>
+            <li>Customisable conversations</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="md:flex md:container md:justify-center md:content-center mx-auto py-4">
+      <img class="max-h-full max-w-full mx-auto md:mx-0 block lg:mr-8" src="./dist/assets/wellsaidhealth-clinicianreports.png" alt="Improve Service Outcomes" />
+
+      <div class="flex-auto lg:pl-8 lg:ml-8 md:max-w-sm">
+        <h3 class="sm:text-3xl font-semibold m-8 border-b-8 border-blue-lighter">Improve Service Outcomes.</h3>
+        <p class="sm:text-lg leading-normal text-grey-darker  my-4 mx-8">Automatically analyse quantitative data and usage analytics. Export qualitative responses for further analysis and
+          produce reports for management meetings.</p>
+
+        <ul class="md:text-lg leading-normal text-grey-darker md:mb-8">
+          <li>Customisable dashboards </li>
+          <li>Exportable data</li>
+          <li>Printable reports</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-blue-dark text-center py-8 text-white">
+    <div class="container mx-auto px-8">
+      <p class="text-2xl font-semibold">We can help you to boost your impact</p>
+      <p class="text-xs mt-4">Register your interest now!</p>
+
+      <form id="register2" name="register2" method="POST" netlify class="mt-4 flex justify-center">
+        <input type="email" required class="px-8 border border-grey-light rounded-l text-grey-dark text-lg h-auto" placeholder="Your email address">
+        <button class="bg-orange text-white font-semibold uppercase rounded-r h-auto p-4 text-sm">Register</button>
+      </form>
+
+      <p class="leading-normal text-blue-lighter">Starting at £500 per quarter</p>
+      <p class="leading-normal text-blue-lighter">Includes 500 SMS messages</p>
+      <p class="leading-normal text-blue-lighter">40% response rates from patients</p>
+      <p class="leading-normal text-blue-lighter">Already used by NHS services</p>
+    </div>
+  </section>
+
+  <section class="bg-grey-lightest px-8 pt-8 pb-4">
+    <h2 class="text-center text-4xl pb-8">The Evidence Base</h2>
+    <hr class="mx-auto mb-4 md:max-w-sm border-solid border-t-4 border-black" />
+
+    <div class="container mx-auto">
+      <div class="md:flex">
+        <p class="flex-1 bg-white p-8 md:my-8 text-blue text-2xl italic">
+          “89% of health care providers, 75% or patients and 73% of consumers, believe that mobile health solutions can convey significant
+          health benefits to them”</p>
+        <p class="bg-blue-light md:max-w-xs p-4 mb-4 md:my-8 text-sm">
+          <a class="text-black font-bold" href="https://www.gsma.com/iot/wp-content/uploads/2012/11/11-12-GSMA-Patient-WP_j.pdf">
+            Global study of perceptions of mobile solutions for healthcare in chronic disease</a> (GSMA, 2012)
+        </p>
+      </div>
+
+      <div class="md:flex">
+        <p class="flex-1 bg-white p-8 md:my-8 text-blue text-2xl italic">
+          “Outcomes assessed...reported with text-messages on mobile phones or with questionnaires completed with pen and paper provide
+          comparable scores. Further, the SMS method provided high response rates (> 97%) in a multicentre setting.”</p>
+        <p class="bg-blue-light md:max-w-xs p-4 md:my-8 mb-4 text-sm">
+          <a class="text-black font-bold" href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-14-52">
+            Collection of patient-reported outcomes
+          </a>(Christie et al., 2014)
+        </p>
+      </div>
+
+      <div class="md:flex">
+        <p class="flex-1 bg-white p-8 md:my-8 text-blue text-2xl italic">
+          “Helping patients gain ownership and mastery of their health is a shift for doctors that requires positive attitudes about,
+          and a deeper understanding of, the patient role, good communication skills and a willingness and ability to collaborate
+          with patients.”</p>
+        <p class="bg-blue-light md:max-w-xs p-4 md:my-8 mb-4 text-sm">
+          <a class="text-black font-bold" href="https://www.kingsfund.org.uk/sites/default/files/field/field_publication_file/supporting-people-manage-health-patient-activation-may14.pdf">
+            Supporting People to Manage Their Health
+          </a>(Hibbard et al., 2014)
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="p-8">
+    <h2 class="text-center text-4xl pb-8">Frequently Asked Questions</h2>
+    <hr class="mx-auto md:max-w-sm border-solid border-t-4 border-black" />
+
+    <div class="sm:flex m-auto container">
+      <div class="flex-1 mt-4 sm:my-8 sm:mx-8">
+        <p class="md:text-lg sm:text-sm leading-normal font-bold leading-normal mb-3">What technology do my patients/my service need?</p>
+        <p class="md:text-lg sm:text-sm leading-normal text-grey-darker mb-8">Patients need a phone with the ability to send/receive SMS. Clinicians need access to email and a web browser.</p>
+
+        <p class="md:text-lg sm:text-sm leading-normal font-bold leading-normal mb-3">What training is required for patients/staff?</p>
+        <p class="md:text-lg sm:text-sm leading-normal text-grey-darker mb-8">Patients should require no support to use the system. Staff can be trained to use WellSaid in a single 10-minute
+          session.</p>
+
+        <p class="md:text-lg sm:text-sm leading-normal font-bold leading-normal mb-3">How long does it take to set up?</p>
+        <p class="md:text-lg sm:text-sm leading-normal text-grey-darker mb-8">The most basic version of our system can be set-up within 24 hours of agreement. More advanced conversations may
+          require additional time.</p>
+      </div>
+
+      <div class="flex-1 sm:my-8 sm:mx-8">
+        <p class="md:text-lg sm:text-sm leading-normal font-bold leading-normal mb-3">How much does it cost?</p>
+        <p class="md:text-lg sm:text-sm leading-normal text-grey-darker mb-8">The basic version of WellSaid costs £500 p/quarter including 500 SMS messages. This includes 1 simple pre-set conversation
+          for 1 group of users. More advanced conversations and multiple groups are quoted as required.</p>
+
+        <p class="md:text-lg sm:text-sm leading-normal font-bold leading-normal mb-3">Who owns the data gathered?</p>
+
+        <p class="md:text-lg sm:text-sm leading-normal text-grey-darker mb-8">Once a patient has granted consent for data to be collected WellSaid processes the data on their and your behalf.
+          We also seek a limited licence to use the responses to improve our system over time, but data can be transferred
+          or deleted at any point under your patients or your request.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-blue-darker text-center py-8 px-8 text-white">
+    <div class="container mx-auto">
+      <p class="text-2xl font-semibold mb-4">Have another question?</p>
+      <p class="leading-normal mb-2">Ask us a question, tell us a story, connect to our API.</p>
+      <p class="leading-normal">We're open to collaboration, just...</p>
+      <a href="mailto:hello@nudjed.com" class="block w-64 mx-auto no-underline mt-4 text-2xl bg-transparent hover:bg-blue text-white font-semibold hover:text-white py-2 px-8 border border-white hover:border-transparent rounded">Say Hello!</a>
+    </div>
+  </section>
+
+  <section class="bg-blue-darkest text-white text-center py-8 px-8">
+    <div class="container mx-auto">
+      <h3 class="text-2xl font-semibold mb-4">Made with pride in Wales</h3>
+      <p class="leading-normal my-4">Life Sciences Hub, 3 Assembly Square, Cardiff Bay, CF10 4PL</p>
+      <p class="leading-normal my-4">Company number: 08500755 | VAT Registration: 237 9256 77</p>
+      <p class="leading-normal text-sm">
+        <a class="text-blue" href="#">Terms of Service</a> |
+        <a class="text-blue" href="#">Additional Corporate Terms</a> |
+        <a class="text-blue" href="#">Privacy Policy</a>
+      </p>
+    </div>
+  </section>
+
+  <footer class="p-2 text-center">
+    <div class="container mx-auto flex items-center justify-between">
+      <p class="flex-1 text-grey-dark">&copy; Copyright Nudjed Ltd</p>
+      <img src="./dist/assets/nudjed-logo-colour.png" alt="Nudjed" />
+      <p class="flex-1">
+        <a class="text-grey-dark no-underline" href="mailto:hello@nudjed.com">hello@nudjed.com</a>
+      </p>
+    </div>
+  </footer>
+</body>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script>
+$("#register1, #register2").submit(function(e) {
+  e.preventDefault();
+  var $form = $(this);
+  $.post($form.attr("action"), $form.serialize()).then(function() {
+    $form.html('<p class="text-green">Thank you for registering your interest.</p>');
+  });
+});
+</script>
 </html>
