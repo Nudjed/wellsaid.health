@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="253px" height="404px" viewBox="0 0 253 404" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Blackberry</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Blackberry" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-4" stroke="#6CB2EB" stroke-width="5" fill="#FFFFFF" x="17.5" y="13.5" width="219" height="378" rx="4"></rect>
+        <g id="Screen" transform="translate(20.000000, 35.000000)" fill="#EFF8FF" stroke="#6CB2EB" stroke-width="2">
+            <rect id="Rectangle-2-Copy" x="-1" y="-1" width="216" height="216"></rect>
+        </g>
+        <g id="Button" transform="translate(30.000000, 267.000000)" fill="#BCDEFA">
+            <rect id="Rectangle-2-Copy-2" x="0" y="0" width="195" height="34" rx="4"></rect>
+        </g>
+        <g id="Button" transform="translate(30.000000, 306.000000)" fill="#BCDEFA">
+            <rect id="Rectangle-2-Copy-2" x="0" y="0" width="195" height="34" rx="4"></rect>
+        </g>
+        <g id="Button" transform="translate(30.000000, 346.000000)" fill="#BCDEFA">
+            <rect id="Rectangle-2-Copy-2" x="0" y="0" width="195" height="34" rx="4"></rect>
+        </g>
+        <g id="Message-to" transform="translate(30.000000, 46.000000)">
+            <rect id="Message_Box" fill="#FCD9B6" fill-rule="evenodd" x="3" y="0" width="175" height="43" rx="8"></rect>
+            <text id="Message-Body" font-family="Roboto-Regular, Roboto" font-size="13" font-weight="normal" fill="#462A16">
+                <tspan x="12" y="18">What is you current weight </tspan>
+                <tspan x="12" y="33">in kilogrammes? e.g. 123.4</tspan>
+            </text>
+        </g>
+        <g id="Message-from" transform="translate(30.000000, 98.000000)">
+            <rect id="Message_Box" fill="#BCDEFA" fill-rule="evenodd" x="12" y="0" width="175" height="28" rx="8"></rect>
+            <text id="Message-Body" font-family="Roboto-Regular, Roboto" font-size="13" font-weight="normal" fill="#12283A">
+                <tspan x="21" y="15.9069767">101.3</tspan>
+            </text>
+        </g>
+        <g id="Message-to" transform="translate(30.000000, 135.000000)">
+            <rect id="Message_Box" fill="#FCD9B6" fill-rule="evenodd" x="3" y="0" width="175" height="60" rx="8"></rect>
+            <text id="Message-Body" font-family="Roboto-Regular, Roboto" font-size="13" font-weight="normal" fill="#462A16">
+                <tspan x="12" y="20.372093">Thanks! It seems like you </tspan>
+                <tspan x="12" y="35.372093">have lost 0.4 KG since we </tspan>
+                <tspan x="12" y="50.372093">last spoke. Good work!</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

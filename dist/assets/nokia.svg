@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="253px" height="404px" viewBox="0 0 253 404" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Nokia</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Nokia" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-4" stroke="#6CB2EB" stroke-width="5" fill="#FFFFFF" x="28.5" y="13.5" width="198" height="378" rx="4"></rect>
+        <g id="Screen" transform="translate(31.000000, 47.000000)" fill="#EFF8FF" stroke="#6CB2EB" stroke-width="2">
+            <rect id="Rectangle-2-Copy" x="-1" y="-1" width="195" height="198"></rect>
+        </g>
+        <g id="Device-button" transform="translate(116.000000, 26.000000)" stroke="#6CB2EB" stroke-width="2">
+            <rect id="Rectangle-Copy-9" x="-1" y="-1" width="26" height="13" rx="6.5"></rect>
+        </g>
+        <g id="Button" transform="translate(43.000000, 265.000000)" fill="#BCDEFA">
+            <rect id="Rectangle-2-Copy-2" x="0" y="0" width="171" height="34" rx="4"></rect>
+        </g>
+        <g id="Button" transform="translate(43.000000, 304.000000)" fill="#BCDEFA">
+            <rect id="Rectangle-2-Copy-2" x="0" y="0" width="171" height="34" rx="4"></rect>
+        </g>
+        <g id="Button" transform="translate(43.000000, 344.000000)" fill="#BCDEFA">
+            <rect id="Rectangle-2-Copy-2" x="0" y="0" width="171" height="34" rx="4"></rect>
+        </g>
+        <g id="Message-to" transform="translate(33.000000, 59.000000)">
+            <rect id="Message_Box" fill="#FCD9B6" fill-rule="evenodd" x="3" y="0" width="175" height="60" rx="8"></rect>
+            <text id="Message-Body" font-family="Roboto-Regular, Roboto" font-size="13" font-weight="normal" fill="#462A16">
+                <tspan x="12" y="20.372093">In the past week have you </tspan>
+                <tspan x="12" y="35.372093">used the skills you’ve </tspan>
+                <tspan x="12" y="50.372093">learned?</tspan>
+            </text>
+        </g>
+        <g id="Message-from" transform="translate(33.000000, 127.000000)">
+            <rect id="Message_Box" fill="#BCDEFA" fill-rule="evenodd" x="12" y="0" width="175" height="28" rx="8"></rect>
+            <text id="Message-Body" font-family="Roboto-Regular, Roboto" font-size="13" font-weight="normal" fill="#12283A">
+                <tspan x="21" y="15.9069767">Yes</tspan>
+            </text>
+        </g>
+        <g id="Message-to" transform="translate(33.000000, 163.000000)">
+            <rect id="Message_Box" fill="#FCD9B6" fill-rule="evenodd" x="3" y="0" width="175" height="43" rx="8"></rect>
+            <text id="Message-Body" font-family="Roboto-Regular, Roboto" font-size="13" font-weight="normal" fill="#462A16">
+                <tspan x="12" y="18">Great! What skills did you </tspan>
+                <tspan x="12" y="33">find you used?</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

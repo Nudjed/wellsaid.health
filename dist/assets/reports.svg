@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="409px" height="503px" viewBox="0 0 409 503" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Browser</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Browser" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-4" stroke="#6CB2EB" stroke-width="5" fill="#EFF8FF" x="22.5" y="18.5" width="364" height="466" rx="4"></rect>
+        <rect id="Rectangle-2-Copy" stroke="#6CB2EB" stroke-width="2" fill="#FFFFFF" x="24" y="35" width="361" height="436"></rect>
+        <rect id="Path" fill="#F4F4F4" x="25" y="360" width="359" height="110"></rect>
+        <text id="Reports" font-family="Roboto-Bold, Roboto" font-size="18" font-weight="bold" fill="#4A4A4A">
+            <tspan x="42" y="66">Reports</tspan>
+        </text>
+        <text id="6-12-Months" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill="#9B9B9B">
+            <tspan x="42" y="384">6-12 Months</tspan>
+        </text>
+        <rect id="Rectangle-Copy-6" fill="#6CB2EB" x="31" y="24" width="32" height="7" rx="3.5"></rect>
+        <rect id="Rectangle-Copy-7" fill="#6CB2EB" x="371" y="24" width="7" height="7" rx="3.5"></rect>
+        <path d="M40.5,76.5 L370.506061,76.5" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M40.5,390.5 L370.506061,390.5" id="Line-Copy" stroke="#9B9B9B" stroke-width="2" stroke-linecap="square"></path>
+        <g id="Group" transform="translate(40.000000, 151.000000)" stroke-linecap="square">
+            <path d="M0.5,1.5 L330.506061,1.5" id="Line-Copy-2" stroke="#DBDBDB"></path>
+            <path d="M0.5,19.5 L330.506061,19.5" id="Line-Copy-3" stroke="#DBDBDB"></path>
+            <path d="M0.5,37.5 L330.506061,37.5" id="Line-Copy-4" stroke="#DBDBDB"></path>
+            <path d="M0.5,55.5 L330.506061,55.5" id="Line-Copy-5" stroke="#DBDBDB"></path>
+            <path d="M0.5,73.5 L330.506061,73.5" id="Line-Copy-6" stroke="#DBDBDB"></path>
+            <path d="M0.5,91.5 L330.506061,91.5" id="Line-Copy-7" stroke="#DBDBDB"></path>
+            <path d="M0.5,109.5 L330.506061,109.5" id="Line-Copy-8" stroke="#DBDBDB"></path>
+            <path d="M0.5,127.5 L330.506061,127.5" id="Line-Copy-9" stroke="#DBDBDB"></path>
+            <path d="M0.5,145.5 L330.506061,145.5" id="Line-Copy-10" stroke="#DBDBDB"></path>
+            <path d="M0.5,163.5 L330.506061,163.5" id="Line-Copy-11" stroke="#DBDBDB"></path>
+            <path d="M0.5,181.5 L330.506061,181.5" id="Line-Copy-12" stroke="#DBDBDB"></path>
+            <path d="M0.5,199.5 L330.506061,199.5" id="Line-Copy-13" stroke="#979797" stroke-width="2"></path>
+        </g>
+        <rect id="Rectangle-2-Copy-5" fill="#BCDEFA" x="43" y="93" width="101" height="32" rx="4"></rect>
+        <rect id="Rectangle-2-Copy-8" stroke="#BCDEFA" stroke-width="2" fill="#EFF8FF" x="46" y="314" width="30" height="34" rx="1"></rect>
+        <rect id="Rectangle-2-Copy-9" stroke="#FAAD63" stroke-width="2" fill="#FCD9B6" x="81" y="293" width="30" height="55" rx="1"></rect>
+        <rect id="Rectangle-2-Copy-10" stroke="#BCDEFA" stroke-width="2" fill="#EFF8FF" x="132" y="274" width="30" height="74" rx="1"></rect>
+        <rect id="Rectangle-2-Copy-11" stroke="#FAAD63" stroke-width="2" fill="#FCD9B6" x="167" y="303" width="30" height="45" rx="1"></rect>
+        <rect id="Rectangle-2-Copy-12" stroke="#BCDEFA" stroke-width="2" fill="#EFF8FF" x="303" y="164" width="30" height="184" rx="1"></rect>
+        <rect id="Rectangle-2-Copy-13" stroke="#FAAD63" stroke-width="2" fill="#FCD9B6" x="338" y="236" width="30" height="112" rx="1"></rect>
+        <rect id="Rectangle-2-Copy-14" stroke="#BCDEFA" stroke-width="2" fill="#EFF8FF" x="217" y="239" width="30" height="109" rx="1"></rect>
+        <rect id="Rectangle-2-Copy-15" stroke="#FAAD63" stroke-width="2" fill="#FCD9B6" x="252" y="293" width="30" height="56" rx="1"></rect>
+        <rect id="Rectangle-2-Copy-6" fill="#BCDEFA" x="155" y="93" width="101" height="32" rx="4"></rect>
+        <rect id="Rectangle-2-Copy-17" fill="#BCDEFA" x="155" y="405" width="101" height="43" rx="4"></rect>
+        <rect id="Rectangle-2-Copy-21" fill="#BCDEFA" x="42" y="405" width="101" height="43" rx="4"></rect>
+        <rect id="Rectangle-2-Copy-7" fill="#BCDEFA" x="267" y="93" width="101" height="32" rx="4"></rect>
+        <rect id="Rectangle-2-Copy-18" fill="#BCDEFA" x="267" y="405" width="101" height="43" rx="4"></rect>
+        <g id="Group-3-Copy" transform="translate(162.000000, 414.000000)" stroke="#6CB2EB" stroke-linecap="square">
+            <path d="M3.95006885,1.5 L45.5,1.5" id="Line-Copy-14" stroke-width="5"></path>
+            <path d="M3.36482718,13.5 L83.2506311,13.5" id="Line-Copy-15" stroke-width="3"></path>
+            <path d="M3.36482718,8.5 L83.2506311,8.5" id="Line-Copy-18" stroke-width="3"></path>
+            <path d="M3.36482718,18.5 L83.2506311,18.5" id="Line-Copy-16" stroke-width="3"></path>
+            <path d="M3.5,23.5 L50.5,23.5" id="Line-Copy-17" stroke-width="3"></path>
+        </g>
+        <g id="Group-3-Copy-3" transform="translate(49.000000, 414.000000)" stroke="#6CB2EB" stroke-linecap="square">
+            <path d="M3.95006885,1.5 L45.5,1.5" id="Line-Copy-14" stroke-width="5"></path>
+            <path d="M3.36482718,13.5 L83.2506311,13.5" id="Line-Copy-15" stroke-width="3"></path>
+            <path d="M3.36482718,8.5 L83.2506311,8.5" id="Line-Copy-18" stroke-width="3"></path>
+            <path d="M3.36482718,18.5 L83.2506311,18.5" id="Line-Copy-16" stroke-width="3"></path>
+            <path d="M3.5,23.5 L50.5,23.5" id="Line-Copy-17" stroke-width="3"></path>
+        </g>
+        <g id="Group-3-Copy-2" transform="translate(275.000000, 414.000000)" stroke="#6CB2EB" stroke-linecap="square">
+            <path d="M3.95006885,1.5 L45.5,1.5" id="Line-Copy-14" stroke-width="5"></path>
+            <path d="M3.36482718,13.5 L83.2506311,13.5" id="Line-Copy-15" stroke-width="3"></path>
+            <path d="M3.36482718,8.5 L83.2506311,8.5" id="Line-Copy-18" stroke-width="3"></path>
+            <path d="M3.36482718,18.5 L83.2506311,18.5" id="Line-Copy-16" stroke-width="3"></path>
+            <path d="M3.5,23.5 L50.5,23.5" id="Line-Copy-17" stroke-width="3"></path>
+        </g>
+        <g id="Group-2" transform="translate(126.313708, 106.313708) rotate(135.000000) translate(-126.313708, -106.313708) translate(118.313708, 98.313708)" fill="#6CB2EB">
+            <rect id="Rectangle-2-Copy-19" x="0" y="0" width="15.7304474" height="4.94385489" rx="2.47192745"></rect>
+            <rect id="Rectangle-2-Copy-20" transform="translate(13.258520, 7.865224) rotate(90.000000) translate(-13.258520, -7.865224) " x="5.39329624" y="5.39329624" width="15.7304474" height="4.94385489" rx="2.47192745"></rect>
+        </g>
+        <g id="Group-2-Copy" transform="translate(237.313708, 106.313708) rotate(135.000000) translate(-237.313708, -106.313708) translate(229.313708, 98.313708)" fill="#6CB2EB">
+            <rect id="Rectangle-2-Copy-19" x="0" y="0" width="15.7304474" height="4.94385489" rx="2.47192745"></rect>
+            <rect id="Rectangle-2-Copy-20" transform="translate(13.258520, 7.865224) rotate(90.000000) translate(-13.258520, -7.865224) " x="5.39329624" y="5.39329624" width="15.7304474" height="4.94385489" rx="2.47192745"></rect>
+        </g>
+        <g id="Group-2-Copy-2" transform="translate(350.313708, 112.313708) rotate(-45.000000) translate(-350.313708, -112.313708) translate(342.313708, 104.313708)" fill="#6CB2EB">
+            <rect id="Rectangle-2-Copy-19" x="0" y="0" width="15.7304474" height="4.94385489" rx="2.47192745"></rect>
+            <rect id="Rectangle-2-Copy-20" transform="translate(13.258520, 7.865224) rotate(90.000000) translate(-13.258520, -7.865224) " x="5.39329624" y="5.39329624" width="15.7304474" height="4.94385489" rx="2.47192745"></rect>
+        </g>
+    </g>
+</svg>
